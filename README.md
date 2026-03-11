@@ -50,6 +50,9 @@ SkillTrack
 ### Add Skill
 ![Add Skill](screenshots/add-skill.png)
 
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Install dependencies

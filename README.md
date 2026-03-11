@@ -42,6 +42,13 @@ SkillTrack
 ```
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/homepage.png)
+
+### Add Skill
+![Add Skill](screenshots/add-skill.png)
 
 ## ▶️ How to Run the Project
 

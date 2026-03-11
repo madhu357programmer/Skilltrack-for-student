@@ -1,21 +1,31 @@
-# SkillTrack for Students
+# 🎓 SkillTrack for Students
 
-SkillTrack is a DBMS-based web application that helps students track and manage their skills.
+SkillTrack is a **DBMS-based web application** that helps students track and manage their skills efficiently.
+The system allows users to store, manage, and monitor student skills using a **Node.js backend and MongoDB database**.
+
+---
 
 ## 🚀 Features
-- Add student skills
-- View skill progress
-- Manage student profiles
-- Store data using MongoDB
+
+* Add student skills
+* View skill progress
+* Manage student profiles
+* Store data using **MongoDB database**
+
+---
 
 ## 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- MongoDB
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* MongoDB
+
+---
 
 ## 📂 Project Structure
+
 ```
 SkillTrack
 │
@@ -23,31 +33,44 @@ SkillTrack
 │   ├── models
 │   │   ├── Student.js
 │   │   └── User.js
+│   │
 │   ├── server.js
-│   ├── package.json
+│   └── package.json
 │
 ├── frontend
 │   └── skilltrack.html
 ```
 
+---
+
 ## ▶️ How to Run the Project
 
-1. Install dependencies
+### 1️⃣ Install dependencies
+
 ```
 npm install
 ```
 
-2. Start server
+### 2️⃣ Start the server
+
 ```
 node server.js
 ```
 
-3. Open the frontend file in browser
+### 3️⃣ Open the frontend
+
+Open this file in your browser:
+
 ```
 frontend/skilltrack.html
 ```
 
+---
+
 ## 👩‍💻 Author
+
 **Madhumitha Manivannan**
 
-GitHub: https://github.com/madhu357programmer
+GitHub:
+https://github.com/madhu357programmer
+
